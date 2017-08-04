@@ -84,26 +84,3 @@ func winnerIs(play1, play2 play) string {
 	}
 	return play2.name
 }
-
-// 	if play1.move == play2.move {
-// 		return "no one"
-// 	}
-// 	switch play1.move {
-// 	case rock:
-// 		if play2.move == scissors {
-// 			return play1.name
-// 		}
-// 		return play2.name
-// 	case paper:
-// 		if play2.move == rock {
-// 			return play1.name
-// 		}
-// 		return play2.name
-// 	case scissors:
-// 		if play2.move == paper {
-// 			return play1.name
-// 		}
-// 		return play2.name
-// 	}
-// 	return "good job, you broke it!"
-// }
