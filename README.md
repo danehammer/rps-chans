@@ -1,5 +1,5 @@
 # rps-chans
 
-Rock, Paper, Scissors with Go channels
+A programming exercise implementing Rock, Paper, Scissors with Go channels.
 
-TODO: link to blog post
+For a write-up, see [my blog post](http://danehammer.rocks/programming/2017/08/04/rock-paper-scissors-go.html).
